@@ -1,4 +1,4 @@
-Markdown# PyTorch Riemannian Stiefel Optimizer 🚀
+PyTorch Riemannian Stiefel Optimizer 🚀
 
 A high-performance, production-ready Riemannian optimization toolkit for PyTorch, specifically tailored for the **Stiefel Manifold** $St(n, k) = \{ W \in \mathbb{R}^{n \times k} \mid W^T W = I_k \}$.
 
